@@ -1,6 +1,5 @@
-Flask
-requests
-python-dotenv
-pandas
-matplotlib
-psycopg2-binary
+  python-telegram-bot==20.8
+  psycopg2-binary
+  pandas
+  matplotlib
+  python-dotenv
